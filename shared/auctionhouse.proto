@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option go_package = "github.com/Gustavholm2/disys-mini-project-3/shared";
+
+service Auctionhouse{
+    rpc Bid (BidAmount) returns (Empty);
+    rpc Result (Empty) returns (Outcome);
+}
+
+message Empty{}
+message BidAmount{
+    int32 amount = 1;
+}
+message Outcome {
+    BidAmount bid = 1;
+    bool isOver = 2;
+}
