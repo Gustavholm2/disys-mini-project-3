@@ -1,8 +1,8 @@
 # disys-mini-project-3
 
-## How to start Server(s)
+## How to start Servers
 Navigate to
 
 
-## How to start Client(s)
+## How to start Clients
 Navigate to 
