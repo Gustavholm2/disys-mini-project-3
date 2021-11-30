@@ -11,7 +11,7 @@ Enter the port you wish to use for the server in question when prompted
 
 
 ## How to start Clients
-Navigate to _disys-mini-project-3/client_
+Navigate to _client_
 
 Run the following command in a terminal: 
 
