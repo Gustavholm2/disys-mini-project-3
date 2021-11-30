@@ -1,7 +1,7 @@
 # disys-mini-project-3
 
 ## How to start Servers
-Navigate to disys-mini-project-3/server
+Navigate to _disys-mini-project-3/server_
 
 Run the following command in a terminal:
 
@@ -11,7 +11,7 @@ Enter the port you wish to use for the server in question when prompted
 
 
 ## How to start Clients
-Navigate to disys-mini-project-3/client
+Navigate to _disys-mini-project-3/client_
 
 Run the following command in a terminal: 
 
