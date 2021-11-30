@@ -1,7 +1,7 @@
 # disys-mini-project-3
 
 ## How to start Servers
-Navigate to _disys-mini-project-3/server_
+Navigate to _/server_
 
 Run the following command in a terminal:
 
