@@ -1,1 +1,0 @@
-LOG|INFO: 14:10:48.686639 main.go:48: === LOG START: Tue, 30 Nov 2021 14:10:48 CET ===
