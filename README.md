@@ -13,7 +13,7 @@ The server can be closed by pressing [Enter]
 
 
 ## How to start Clients
-Navigate to _client_
+Navigate to _/client_
 
 Run the following command in a terminal: 
 
