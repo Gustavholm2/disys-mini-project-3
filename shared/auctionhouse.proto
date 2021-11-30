@@ -8,8 +8,10 @@ service Auctionhouse{
 }
 
 message Empty{}
+
 message BidAmount{
     int32 amount = 1;
+    string owner = 2;
 }
 message Outcome {
     BidAmount bid = 1;
