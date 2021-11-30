@@ -9,7 +9,6 @@ import (
 )
 
 var (
-
 	// Logs str
 	logI func(str string)
 	// Logs str as an error

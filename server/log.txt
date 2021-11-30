@@ -1,0 +1,13 @@
+LOG|INFO: 16:22:08.393891 main.go:42: === LOG START: Tue, 30 Nov 2021 16:22:08 CET ===
+LOG|INFO: 16:23:45.148919 auctionhouse_grpc.go:61: Starting server with address: localhost:55550
+LOG|INFO: 16:23:45.153697 auctionhouse_grpc.go:76: server starting...
+LOG|INFO: 16:25:17.138198 auctionhouse_grpc.go:34: Auction started at with starting bid of -1. Closing at 16:25:47
+LOG|INFO: 16:25:17.138198 auctionhouse_grpc.go:37: Cat makes a bid of 10
+LOG|INFO: 16:25:17.138198 auctionhouse_grpc.go:40: New highest bid of 10 by Cat
+LOG|INFO: 16:25:24.047621 auctionhouse_grpc.go:53: the highest bid is: 10, and the auction is still running
+LOG|INFO: 16:25:39.730728 auctionhouse_grpc.go:37: Cat makes a bid of 100
+LOG|INFO: 16:25:39.730728 auctionhouse_grpc.go:40: New highest bid of 100 by Cat
+LOG|INFO: 16:25:41.531161 auctionhouse_grpc.go:37: Cat makes a bid of 100
+LOG|INFO: 16:25:41.531161 auctionhouse_grpc.go:42: Bid not higher than highest bid. Ignoring
+LOG|INFO: 16:25:57.731302 auctionhouse_grpc.go:56: the highest bid is: 100, and the auction is over
+LOG|INFO: 16:25:59.862751 auctionhouse_grpc.go:56: the highest bid is: 100, and the auction is over
